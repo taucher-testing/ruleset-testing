@@ -1,1 +1,3 @@
 # ruleset-testing
+
+test
